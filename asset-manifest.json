@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/VideoCal-WebRTC/static/css/main.073c9b0a.css",
-    "main.js": "/VideoCal-WebRTC/static/js/main.36dfd01d.js",
-    "static/js/787.b59a7c3f.chunk.js": "/VideoCal-WebRTC/static/js/787.b59a7c3f.chunk.js",
-    "index.html": "/VideoCal-WebRTC/index.html",
-    "main.073c9b0a.css.map": "/VideoCal-WebRTC/static/css/main.073c9b0a.css.map",
-    "main.36dfd01d.js.map": "/VideoCal-WebRTC/static/js/main.36dfd01d.js.map",
-    "787.b59a7c3f.chunk.js.map": "/VideoCal-WebRTC/static/js/787.b59a7c3f.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.36dfd01d.js"
-  ]
+  "main.css": "/videoCal-WebRTC/static/css/main.046dd2e4.chunk.css",
+  "main.js": "/videoCal-WebRTC/static/js/main.56f0b6ef.chunk.js",
+  "main.js.map": "/videoCal-WebRTC/static/js/main.56f0b6ef.chunk.js.map",
+  "static/js/1.790a55fe.chunk.js": "/videoCal-WebRTC/static/js/1.790a55fe.chunk.js",
+  "static/js/1.790a55fe.chunk.js.map": "/videoCal-WebRTC/static/js/1.790a55fe.chunk.js.map",
+  "static/js/2.41823923.chunk.js": "/videoCal-WebRTC/static/js/2.41823923.chunk.js",
+  "static/js/2.41823923.chunk.js.map": "/videoCal-WebRTC/static/js/2.41823923.chunk.js.map",
+  "runtime~main.js": "/videoCal-WebRTC/static/js/runtime~main.b40a95bf.js",
+  "runtime~main.js.map": "/videoCal-WebRTC/static/js/runtime~main.b40a95bf.js.map",
+  "static/css/main.046dd2e4.chunk.css.map": "/videoCal-WebRTC/static/css/main.046dd2e4.chunk.css.map",
+  "index.html": "/videoCal-WebRTC/index.html",
+  "precache-manifest.1b7f4790b098805f264df1709aa3f985.js": "/videoCal-WebRTC/precache-manifest.1b7f4790b098805f264df1709aa3f985.js",
+  "service-worker.js": "/videoCal-WebRTC/service-worker.js"
 }
